@@ -1,0 +1,5 @@
+Nom complet : Oussama Rafi*
+Num d'etudiant: 22016310
+Cursus: 1ére année de Licence informatique porail mathématique à l'UFR des sciences (2020/2021)
+Nom de la 1ére page d'acceuil : site.html 
+Nom de la 2éme page d'acceuil : site2.html

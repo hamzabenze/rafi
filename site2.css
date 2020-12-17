@@ -1,0 +1,84 @@
+body {
+  margin: 0px;
+  height: 100%;
+ background-color: black;
+  background-repeat: no-repeat;
+}
+header {
+	
+ position: absolute;
+ top: 0px;
+ left: 0px;
+ width: auto;
+ height: 30px;
+
+}
+article {
+ position: absolute;
+ top: 40%;
+ left: 0px;
+ width: 85%;
+ height: 60%;
+ font-size: 27px;
+color: white;
+ 
+}
+aside {
+ position: absolute;
+ top: 0%;
+ left: 85%;
+ width: 15%;
+ height: 100%;
+ background-image: url(HHH.gif);
+ 
+ }
+
+ .button
+ {
+	 position:absolute ;
+     width:0px
+	 border: 1px solid #15f4ee;
+	 color:#9F0A00;
+	 transition:1,5s;
+	 border-radius:10px
+	 }
+	 
+	  .button:hover
+	 {
+	 box-shadow: 0 5px 10px 0 white inset,0 5px 10px 0 white,
+	   0 5px 10px 0  white inset,0 5px 10px 0  white; }
+
+
+
+	h1 {
+
+		font-size: 50pt; 
+		margin-left: 550px ;
+		 color: #9F0A00;
+	}
+	p {
+		color: white;
+		font-size: 20px;
+	}
+	.button4 {
+	position: absolute;
+top: 90%;
+left: 58%;
+transform: translate(-50%,-50%);
+
+}
+
+.btn4 {
+
+	border: 1px solid  ;
+	padding:10px 10px;
+	color: #fff;
+	text-decoration: none;
+
+}
+
+.btn4:hover {
+background-color: white  ;
+	color: #9F0A00;  
+
+}

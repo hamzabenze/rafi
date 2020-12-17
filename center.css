@@ -1,0 +1,76 @@
+*{
+margin: 0;
+font-family: sans-serif;
+}
+body { background-image: url(s7ra.jpg)
+
+}
+header,article {
+/*background-image: url(sport2.jpg)*/
+height: 30px;
+}
+
+
+ul{
+	list-style-type: none;
+	float: right ;
+	margin-top: 25px;
+
+}
+ul li {
+	display: inline-block;
+}
+ul li a {
+	text-decoration: underline;
+	color: #fff;
+	padding: 3px 20px ;
+	border : 5px solid transparent ;
+}
+ul li a:hover {
+	background-color: #fff;
+	color: blue  ;
+}
+
+ul li.active a{
+
+	background-color: #fff;
+	color: #000;
+}
+.logo img{
+	float:left;
+	width:100px ;
+	height: auto;
+}
+.main {
+	max-width:1200px;
+
+}
+table {
+	
+     position: center;
+      display:flex;
+     justify-content:center;
+     align-items:center;
+     flex-direction:column; 
+}
+p {
+	color: white;
+	font-size: 18px;
+}
+article h1 {
+	color: black;
+	font-style: oblique;
+	font-weight: 500;
+margin-left: 600px;
+text-decoration: underline;}
+
+a {
+	color: white;
+	text-decoration: underline;
+	padding: 3px 20px ;
+	border : 5px solid transparent ;
+}
+
+ a:hover {
+	background-color: #fff;
+	color: black  ; }
